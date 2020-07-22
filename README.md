@@ -18,7 +18,7 @@
 - [三体问题](https://liupzmin.com/2019/10/09/theory/three-body-problem/)
 ---
 
-⭐️ From [liupzmin](https://github.com/liupzmin)
+⭐️ From [Richard](https://github.com/liupzmin)
 
 <!--
 **liupzmin/liupzmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
