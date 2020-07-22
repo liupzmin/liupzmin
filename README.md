@@ -11,8 +11,9 @@
 - 😄 **为天地立心，为生民立命，为往圣继绝学，为万世开太平**(To ordain conscience for Heaven and Earth. To secure life and fortune for the people. To continue lost teachings for past sages. To establish peace for all future generations.)
 
 #### Recent blog posts 🌎:
+- [编译和链接那些事儿（一）](https://liupzmin.com/2020/03/24/c/static-link-dynamic-link-1/)
 - [好朋友 TIME_WAIT](https://liupzmin.com/2020/02/26/network/tcp-time-wait/)
-
+- [译:TIME_WAIT及其对协议和可伸缩客户端服务器系统的设计实现](https://liupzmin.com/2020/01/09/theory/time-wait-system-design/)
 
 
 ---
