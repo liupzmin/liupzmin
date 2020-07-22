@@ -14,8 +14,8 @@
 - [编译和链接那些事儿（一）](https://liupzmin.com/2020/03/24/c/static-link-dynamic-link-1/)
 - [好朋友 TIME_WAIT](https://liupzmin.com/2020/02/26/network/tcp-time-wait/)
 - [译:TIME_WAIT及其对协议和可伸缩客户端服务器系统的设计实现](https://liupzmin.com/2020/01/09/theory/time-wait-system-design/)
-
-
+- [在 Linux 上有哪些运行程序的方式？](https://liupzmin.com/2019/11/26/linux/how-do-we-run-programs-on-unix-systems/)
+- [三体问题](https://liupzmin.com/2019/10/09/theory/three-body-problem/)
 ---
 
 ⭐️ From [liupzmin](https://github.com/liupzmin)
