@@ -4,22 +4,20 @@
 #### I'm a Non-famous Programer based in Jiangsu Wuxi.
 
 - 🏢 I'm currently working full-time with a Go poject.
+- ⚡ Languages: Go, Python3, C
 - 🌱 Learning more about and studying: **Open Source, Go, Computer Classics**
 - 💬 Ping me about: **Computer Theory**, **Linux**, **history & philosophy**, **poetry**, **Wang Yangming**
 - 📫 Reach me asap: <a href="https://twitter.com/liupzmin/">Twitter</a> or liupzmin@foxmail.com
-- 💜 Interests: huge Beyonce fan, cryptocurrency enthusiast, foodie, 🐶 Kiki
-- 😄 Passionate about accessibility and committed to a web that works for everyone
+- 😄 **为天地立心，为生民立命，为往圣继绝学，为万世开太平**(To ordain conscience for Heaven and Earth. To secure life and fortune for the people. To continue lost teachings for past sages. To establish peace for all future generations.)
 
-#### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/millycodes/">LinkedIn</a>
-- 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/millyfeet">Spotify</a>
-- 🌐 Updating my personal website with examples of my work on <a href="https://millycodes.com">MillyCodes.com</a>
-- 🐦 Tweeting about Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/millycodes/">Twitter</a>
+#### Recent blog posts 🌎:
+- [好朋友 TIME_WAIT](https://liupzmin.com/2020/02/26/network/tcp-time-wait/)
+
 
 
 ---
 
-⭐️ From [MillyCodes](https://github.com/MillyCodes)
+⭐️ From [liupzmin](https://github.com/liupzmin)
 
 <!--
 **liupzmin/liupzmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
