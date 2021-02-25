@@ -4,7 +4,7 @@
 #### I'm a Non-famous Programer based in Jiangsu Wuxi.
 
 - 🏢 I'm currently working full-time with a Go poject.
-- ⚡ Languages: Go, Python3, C
+- ⚡ Languages: Go, Rust, C
 - 🌱 Learning more about and studying: **Open Source, Go, Computer Classics**
 - 💬 Ping me about: **Computer Theory**, **Linux**, **history & philosophy**, **poetry**, **Wang Yangming**
 - 📫 Reach me asap: <a href="https://twitter.com/liupzmin/">Twitter</a> or liupzmin@foxmail.com
