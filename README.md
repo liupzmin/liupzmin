@@ -3,9 +3,9 @@
 
 #### I'm a Non-famous Programer based in Jiangsu Wuxi.
 
-- 🏢 I'm currently working full-time with a Go poject.
+- 🏢 I'm currently working full-time with Go pojects.
 - ⚡ Languages: Go, Rust, C
-- 🌱 Learning more about and studying: **Open Source, Go, Computer Classics**
+- 🌱 Learning more about and studying: **Open Source, Go, Rust, Computer Classics**
 - 💬 Ping me about: **Computer Theory**, **Linux**, **history & philosophy**, **poetry**, **Wang Yangming**
 - 📫 Reach me asap: <a href="https://twitter.com/liupzmin/">Twitter</a> or liupzmin@foxmail.com
 - 😄 **为天地立心，为生民立命，为往圣继绝学，为万世开太平**(To ordain conscience for Heaven and Earth. To secure life and fortune for the people. To continue lost teachings for past sages. To establish peace for all future generations.)
