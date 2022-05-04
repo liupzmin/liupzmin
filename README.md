@@ -11,6 +11,7 @@
 - 😄 **为天地立心，为生民立命，为往圣继绝学，为万世开太平**(To ordain conscience for Heaven and Earth. To secure life and fortune for the people. To continue lost teachings for past sages. To establish peace for all future generations.)
 
 #### Recent blog posts 🌎:
+- [一个学渣对于stack的顿悟（3）：溯源 goroutine 堆栈](https://liupzmin.com/2022/04/26/theory/stack-insight-03/)
 - [一个学渣对于stack的顿悟（2）：穿越虚拟内存的迷雾](https://liupzmin.com/2021/07/20/theory/stack-insight-02/)
 - [一个学渣对于stack的顿悟（1）：从CPU的视角说起](https://liupzmin.com/2021/06/27/theory/stack-insight-01-md/)
 - [用 Go 实现策略模式](https://liupzmin.com/2021/01/15/design_patterns/strategy-go/)
