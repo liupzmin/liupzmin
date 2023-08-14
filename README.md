@@ -8,14 +8,14 @@
 - 🌱 Learning more about and studying: **Open Source, Go, Rust, Computer Classics**
 - 💬 Ping me about: **Computer Theory**, **Linux**, **history & philosophy**, **poetry**, **Wang Yangming**
 - 📫 Reach me asap: <a href="https://twitter.com/liupzmin/">Twitter</a> or liupzmin@foxmail.com
-- 😄 **为天地立心，为生民立命，为往圣继绝学，为万世开太平**(To ordain conscience for Heaven and Earth. To secure life and fortune for the people. To continue lost teachings for past sages. To establish peace for all future generations.)
 
 #### Recent blog posts 🌎:
+- [关于并发的一点思考](https://liupzmin.com/2023/08/08/golang/a-little-thought-of-concurrency/)
 - [异步 I/O 探秘 —— 为什么说 Go 为我们提供了同步的网络编程接口 ？](https://liupzmin.com/2023/06/28/golang/netpoller/)
 - [在 CPU 上起舞：聊一聊 Linux 调度和 Go 的 Runtime 调度](https://liupzmin.com/2022/05/27/theory/schedule/)
-- [一个学渣对于stack的顿悟（3）：溯源 goroutine 堆栈](https://liupzmin.com/2022/04/26/theory/stack-insight-03/)
-- [一个学渣对于stack的顿悟（2）：穿越虚拟内存的迷雾](https://liupzmin.com/2021/07/20/theory/stack-insight-02/)
-- [一个学渣对于stack的顿悟（1）：从CPU的视角说起](https://liupzmin.com/2021/06/27/theory/stack-insight-01-md/)
+- [Stack的顿悟三部曲（3）：溯源 goroutine 堆栈](https://liupzmin.com/2022/04/26/theory/stack-insight-03/)
+- [stack的顿悟三部曲（2）：穿越虚拟内存的迷雾](https://liupzmin.com/2021/07/20/theory/stack-insight-02/)
+- [Stack的顿悟三部曲（1）：从CPU的视角说起](https://liupzmin.com/2021/06/27/theory/stack-insight-01-md/)
 - [用 Go 实现策略模式](https://liupzmin.com/2021/01/15/design_patterns/strategy-go/)
 - [策略模式](https://liupzmin.com/2021/01/03/design_patterns/strategy/)
 - [编译和链接那些事儿（一）](https://liupzmin.com/2020/03/24/c/static-link-dynamic-link-1/)
